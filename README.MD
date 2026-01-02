@@ -181,7 +181,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/ai-ad-intelligence-platform.git
+git clone https://github.com/justbytecode/ai-ad-intelligence-platform.git
 
 # Install dependencies
 pip install -r requirements-dev.txt
