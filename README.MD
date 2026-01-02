@@ -214,7 +214,7 @@ Built with cutting-edge open-source technologies:
 
 **Status**: Under Active Development | **Version**: 1.0.0-beta
 
-Made with ❤️ by the AI Ad Intelligence Team
+Made with ❤️ by the Mani
 
 [⬆ Back to Top](#ai-based-ad-decision-and-creative-intelligence-platform)
 
